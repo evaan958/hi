@@ -1,4 +1,4 @@
-//Evaan J
+blah//Evaan J
 //Jan. 5
 //2d arrays
 
@@ -18,7 +18,7 @@ public static void main (String []args) {
  
     do{
         //Asking the system to run the code inside the method rowInput
-        table.rowInput();
+        rowValue = table.rowInput();
         System.out.println(rowValue);
         table.columnInput();
         table.table1();
